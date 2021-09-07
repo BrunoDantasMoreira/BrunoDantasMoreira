@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @BrunoDantasMoreira
+- 🌱 I’m currently learning Python and JavaScript
