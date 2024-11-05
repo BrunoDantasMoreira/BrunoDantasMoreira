@@ -12,4 +12,5 @@ I'm seeking internship opportunities to deepen my expertise in Data Science and 
 Let’s Connect!
 
 LinkedIn: [Profile](https://www.linkedin.com/in/bruno-dantas-moreira-1a4294183/)
+
 GitHub: You’re already here!
