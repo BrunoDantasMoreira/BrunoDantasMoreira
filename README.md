@@ -11,5 +11,5 @@ Goals
 I'm seeking internship opportunities to deepen my expertise in Data Science and Machine Learning. I’m looking forward to applying my technical skills to real-world problems and gaining hands-on experience in Python-driven data projects.
 Let’s Connect!
 
-    LinkedIn: Your LinkedIn Profile
+    LinkedIn: (https://www.linkedin.com/in/bruno-dantas-moreira-1a4294183/)
     GitHub: You’re already here!
